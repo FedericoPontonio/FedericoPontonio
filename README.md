@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here are some of the projects I've been working on:
 ## 📚 Bookshelf  
 A personal library app to search, save and manage your book collection.  
-🔗 [Live Demo](https://bookshelfederico.netlify.app/)
+🔗 [Live Demo](https://bookshelfederico.netlify.app/)  
 🖥 [Frontend Code](https://github.com/FedericoPontonio/bookshelfFrontend) | ⚙️ [Backend Code](https://github.com/FedericoPontonio/bookshelf)
 
 ## 🎯 Character Finder Game  
